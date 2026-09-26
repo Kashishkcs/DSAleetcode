@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kashishkcs/DSAleetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Kashishkcs/DSAleetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Kashishkcs/DSAleetcode/tree/master/0035-search-insert-position) |
+| [0179-largest-number](https://github.com/Kashishkcs/DSAleetcode/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kashishkcs/DSAleetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Kashishkcs/DSAleetcode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kashishkcs/DSAleetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kashishkcs/DSAleetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Kashishkcs/DSAleetcode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/Kashishkcs/DSAleetcode/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kashishkcs/DSAleetcode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kashishkcs/DSAleetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
