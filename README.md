@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kashishkcs/DSAleetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Kashishkcs/DSAleetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Kashishkcs/DSAleetcode/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kashishkcs/DSAleetcode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Kashishkcs/DSAleetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
