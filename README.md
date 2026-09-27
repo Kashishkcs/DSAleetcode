@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kashishkcs/DSAleetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kashishkcs/DSAleetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Kashishkcs/DSAleetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -43,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kashishkcs/DSAleetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kashishkcs/DSAleetcode/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kashishkcs/DSAleetcode/tree/master/0179-largest-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kashishkcs/DSAleetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
