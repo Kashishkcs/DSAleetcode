@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kashishkcs/DSAleetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Kashishkcs/DSAleetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Kashishkcs/DSAleetcode/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/Kashishkcs/DSAleetcode/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/Kashishkcs/DSAleetcode/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
@@ -59,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kashishkcs/DSAleetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Kashishkcs/DSAleetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kashishkcs/DSAleetcode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kashishkcs/DSAleetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
