@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kashishkcs/DSAleetcode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/Kashishkcs/DSAleetcode/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/Kashishkcs/DSAleetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Kashishkcs/DSAleetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kashishkcs/DSAleetcode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Kashishkcs/DSAleetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kashishkcs/DSAleetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Kashishkcs/DSAleetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kashishkcs/DSAleetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Kashishkcs/DSAleetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
