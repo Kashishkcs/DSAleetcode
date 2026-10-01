@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kashishkcs/DSAleetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kashishkcs/DSAleetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Kashishkcs/DSAleetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Kashishkcs/DSAleetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kashishkcs/DSAleetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kashishkcs/DSAleetcode/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kashishkcs/DSAleetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Kashishkcs/DSAleetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Kashishkcs/DSAleetcode/tree/master/0078-subsets) |
 ## Simulation
